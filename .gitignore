@@ -1,2 +1,6 @@
 #ignore all the text files
 *.txt
+#ignore the scss folder
+scss
+#ignore sass files
+*.scss
