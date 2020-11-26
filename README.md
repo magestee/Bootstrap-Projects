@@ -3,7 +3,7 @@ These are the projects that I made while learning Bootstrap. they may come from 
 # Why
 just a way to learn github and to write README files 
 #the emoji wiki
-| Commit type	             | Emohi                                         |
+| Commit type	             | Emoji                                         |
 |:---------------------------|:----------------------------------------------|
 | Initial Commit             | :tada: `:tada:`                               |
 | Full version Upload        | :bookmark: `:bookmark:`                       |
