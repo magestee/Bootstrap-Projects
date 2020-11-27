@@ -1,0 +1,4 @@
+/* setting the direction of the document*/
+*{
+    direction: rtl;
+}
