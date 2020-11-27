@@ -1,8 +1,8 @@
 # Bootstrap Projects
 These are the projects that I made while learning Bootstrap. they may come from tutorials.
 # Why
-just a way to learn github and to write README files 
-# the emoji wiki
+I made this repo for my exexperiments with Bootstrap and also it's a way to learn git and github.
+# Emoji Wiki
 <center>
 
 | Commit type	             | Emoji                                 |
