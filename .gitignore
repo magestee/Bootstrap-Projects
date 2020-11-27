@@ -4,3 +4,5 @@
 scss
 #ignore sass files
 *.scss
+#ignore .idea folders
+.idea
