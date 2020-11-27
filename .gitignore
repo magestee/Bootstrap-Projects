@@ -6,3 +6,5 @@ scss
 *.scss
 #ignore .idea folders
 .idea
+#ignore TODO file
+TODO
