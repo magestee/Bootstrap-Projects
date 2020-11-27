@@ -41,7 +41,7 @@ body{
     height: 100%;
     background: rgba(0, 0, 0, 0.7);
 }
-#video-auto-play{
+#video-play{
     position: relative;
     min-height: 200px;
     background-image: url(../img/media.jpg);
@@ -51,7 +51,7 @@ body{
     text-align: center;
     color: #fff;
 }
-#video-auto-play a{
+#video-play a{
     color: #fff;
 }
 #page-header{
