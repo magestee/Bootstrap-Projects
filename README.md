@@ -3,7 +3,6 @@ These are the projects that I made while learning Bootstrap. they may come from 
 # Why
 I made this repo for my exexperiments with Bootstrap and also it's a way to learn git and github.
 # Emoji Wiki
-<center>
 
 | Commit type	             | Emoji                                 |
 |:---------------------------|:--------------------------------------|
@@ -15,6 +14,5 @@ I made this repo for my exexperiments with Bootstrap and also it's a way to lear
 | New file added             | :bulb:                                |
 | Removing code/files        | :fire:                                |
 
-</center>
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
