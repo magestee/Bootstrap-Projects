@@ -1,4 +1,10 @@
+/* import the fonts */
+@import url(fontiran.css); 
 /* setting the direction of the document*/
 *{
     direction: rtl;
+}
+body{
+    font-family: IRANSans !important;
+
 }
