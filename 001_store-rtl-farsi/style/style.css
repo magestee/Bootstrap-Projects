@@ -4,6 +4,28 @@
 body{
     font-family: IRANSans !important;
 }
-.navbar .container-fluid{
-    height: 4rem;
+.navbar .navbar-brand{
+    font-size: 1.8rem;
+    color: #ff7f00;
+}
+.nav-height{
+    height: 8rem;
+}
+@media (max-width: 576px) {
+    .navbar .navbar-brand{
+        font-size: 1.8rem;
+    }
+    .sm-none{
+        display: none;
+    }
+    .navbar .container .btn{
+        font-size: .8rem;
+    }
+    .navbar .container .btn i{
+        display: none;
+    }
+    .navbar .container .form-control{
+        font-size: .8rem;
+        line-height: .8rem;
+    }
 }
