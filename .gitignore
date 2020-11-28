@@ -6,5 +6,8 @@ scss
 *.scss
 #ignore .idea folders
 .idea
-#ignore TODO file
+#ignore 2do file
 TODO
+#ignore .map
+bootstrap.css.map
+.map
