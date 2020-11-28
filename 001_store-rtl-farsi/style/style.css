@@ -1,10 +1,11 @@
 /* import the fonts */
 @import url(fontiran.css); 
 /* setting the direction of the document*/
-*{
-    direction: rtl;
-}
 body{
     font-family: IRANSans !important;
-
+}
+.navbar .container{
+    align-items: flex-end;
+    justify-content: space-around;
+    flex-direction: column;
 }
