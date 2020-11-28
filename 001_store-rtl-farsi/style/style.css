@@ -4,8 +4,6 @@
 body{
     font-family: IRANSans !important;
 }
-.navbar .container{
-    align-items: flex-end;
-    justify-content: space-around;
-    flex-direction: column;
+.navbar .container-fluid{
+    height: 4rem;
 }

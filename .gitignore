@@ -10,4 +10,4 @@ scss
 TODO
 #ignore .map
 bootstrap.css.map
-.map
+*.css.map
